@@ -1,0 +1,1 @@
+# simple diesel rust write example with time stamps in docker-compose
